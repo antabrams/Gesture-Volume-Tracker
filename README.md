@@ -56,3 +56,8 @@ On macOS, the script uses AppleScript to set system volume.
 On Windows, Pycaw manages system volume.
 
 Recommended camera resolution: 640x480 for smooth performance.
+
+<img width="636" height="494" alt="Screenshot 2025-09-08 at 8 56 40 AM" src="https://github.com/user-attachments/assets/77bc62f3-a8ac-411c-b0e8-719217a5c16f" />
+
+
+
